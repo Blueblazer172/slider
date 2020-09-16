@@ -6,7 +6,7 @@ Slider component for Vue Bulma.
 ## Installation
 
 ```
-$ npm install vue-bulma-slider --save
+$ npm install Blueblazer172/slider --save
 ```
 
 
