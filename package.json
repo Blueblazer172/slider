@@ -5,7 +5,8 @@
   "main": "src/Slider.vue",
   "peerDependencies": {
     "bulma": ">=0.2",
-    "vue": ">=2"
+    "vue": ">=2",
+    "sass-loader": "^10.0.2"
   },
   "repository": "vue-bulma/slider",
   "keywords": [
